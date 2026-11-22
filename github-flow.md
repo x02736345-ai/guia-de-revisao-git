@@ -3,11 +3,11 @@
 ## Os seis passos do GitHub Flow
 
 - Criar uma branch: criar uma ramificação do projeto para trabalhar em uma nova funcionalidade ou alteração sem afetar 
-a versão principal.
-- Fazer alterações: editar os arquivos necessários dentro da branch criada.
-- Realizar commits: salvar as alterações feitas, descrevendo brevemente o que foi modificado.
-- Abrir um Pull Request: solicitar a revisão das alterações antes de adicioná-las à branch principal.
-- Revisar e discutir: analisar o código, verificar se está tudo correto e realizar ajustes, caso necessário.
+a versão principal;
+- Fazer alterações: editar os arquivos necessários dentro da branch criada;
+- Realizar commits: salvar as alterações feitas, descrevendo brevemente o que foi modificado;
+- Abrir um Pull Request: solicitar a revisão das alterações antes de adicioná-las à branch principal;
+- Revisar e discutir: analisar o código, verificar se está tudo correto e realizar ajustes, caso necessário;
 - Fazer o merge: depois da aprovação, juntar as alterações à branch main.
 
 ## Por que não editamos diretamente na main?
